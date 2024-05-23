@@ -1,7 +1,7 @@
 # Albert Taygibov
 
-- [Telegram](https://t.me/albert_taygibov)
 - albert.taygibov@mail.ru
+- [Telegram](https://t.me/albert_taygibov)
 - [вконтакте](https://vk.com/alberttaygibov)
 
 ## About me:
