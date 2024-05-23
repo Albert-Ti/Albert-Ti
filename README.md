@@ -1,4 +1,8 @@
-# Albert Taygibov.
+# Albert Taygibov
+
+Telegram: @albert_taygibov
+Почта: albert.taygibov@mail.ru
+вконтакте: [VK](https://vk.com/alberttaygibov)
 
 ## About me:
 
