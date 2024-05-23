@@ -1,7 +1,7 @@
 # Albert Taygibov
 
-- Telegram: @albert_taygibov
-- Почта: albert.taygibov@mail.ru
+- [Telegram](https://t.me/albert_taygibov)
+- albert.taygibov@mail.ru
 - [вконтакте](https://vk.com/alberttaygibov)
 
 ## About me:
