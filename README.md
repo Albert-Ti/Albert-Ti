@@ -3,6 +3,7 @@
 - albert.taygibov@mail.ru
 - [Telegram](https://t.me/albert_taygibov)
 - [вконтакте](https://vk.com/alberttaygibov)
+- [instagram](https://www.instagram.com/albert.ti/)
 
 ## About me:
 
