@@ -1,10 +1,10 @@
 # Albert Taygibov. 
 
-[my porfolio site](https://albert-ti.github.io/my-portfolio-react/)
 
 - albert.taygibov@mail.ru
 - [Telegram](https://t.me/albert_taygibov)
 - [вконтакте](https://vk.com/alberttaygibov)
+- [my porfolio site](https://albert-ti.github.io/my-portfolio-react/)
 
 ## About me:
 
