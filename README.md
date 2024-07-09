@@ -1,4 +1,6 @@
-# Albert Taygibov.
+# Albert Taygibov. 
+
+[my porfolio site](https://albert-ti.github.io/my-portfolio-react/)
 
 - albert.taygibov@mail.ru
 - [Telegram](https://t.me/albert_taygibov)
@@ -13,8 +15,6 @@
 
 - Нейросети: использую для анализа логов, рефакторинга кода и создания тестовых данных.
 - Официальную документацию: для получения актуальной информации о новых версиях.
-
-## [my porfolio site](https://albert-ti.github.io/my-portfolio-react/)
 
 ## my main stack:
 
