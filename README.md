@@ -14,6 +14,8 @@
 - Нейросети: использую для анализа логов, рефакторинга кода и создания тестовых данных.
 - Официальную документацию: для получения актуальной информации о новых версиях.
 
+## [my porfolio site](https://albert-ti.github.io/my-portfolio-react/)
+
 ## my main stack:
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
