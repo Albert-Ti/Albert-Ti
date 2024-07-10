@@ -7,7 +7,6 @@
 ## About me:
 
 ### My-Site: [AlbertTi](https://albert-ti.github.io/my-portfolio-react/)
-### My-CV: [hh.ru](https://hh.ru/resume/7393af3fff0d3696330039ed1f684471623248)
 
 ## my main stack:
 
