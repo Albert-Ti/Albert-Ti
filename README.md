@@ -1,20 +1,13 @@
 # Albert Taygibov. 
 
-
 - albert.taygibov@mail.ru
 - [Telegram](https://t.me/albert_taygibov)
 - [вконтакте](https://vk.com/alberttaygibov)
-- [my porfolio site](https://albert-ti.github.io/my-portfolio-react/)
 
 ## About me:
 
-Хочу разрабатывать приложения, которые оставили бы свой след в истории.
-Меня не пугает что-то новое, а наоборот, возбуждает во мне интерес. Стараюсь выбирать себе сложные задачи, для быстрого развития и тренировки своих навыков.
-
-При разработке опираюсь на:
-
-- Нейросети: использую для анализа логов, рефакторинга кода и создания тестовых данных.
-- Официальную документацию: для получения актуальной информации о новых версиях.
+### My-Site: [AlbertTi](https://albert-ti.github.io/my-portfolio-react/)
+### My-CV: [hh.ru](https://hh.ru/resume/7393af3fff0d3696330039ed1f684471623248)
 
 ## my main stack:
 
