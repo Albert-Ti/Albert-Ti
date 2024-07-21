@@ -1,4 +1,4 @@
-# Albert Taygibov. <img src="https://www.codewars.com/users/Albert-Ti/badges/large" alt="Codewars Badge" style="float: right; width: 300px" />
+# Albert Taygibov.
 
 - albert.taygibov@mail.ru
 - [Telegram](https://t.me/albert_taygibov)
