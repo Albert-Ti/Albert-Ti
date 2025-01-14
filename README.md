@@ -7,7 +7,8 @@
 
 ## About me:
 
-### My-Site: [AlbertTi](https://albert-ti.github.io/my-portfolio-react/)
+### Мой большой проект чата: https://maze-chat.online/chats
+### My-Site portfolio: [AlbertTi](https://albert-ti.github.io/my-portfolio-react/)
 
 ## my main stack:
 
